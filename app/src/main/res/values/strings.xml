@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ShopEx</string>
+    <string name="action_clear">Clear items</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on button to speak</string>
+    <string name="tap_on_cam">Tap on button to capture</string>
+    <string name="tap_on_bar">Tap on button to scan</string>
+    <string-array name="shopping_mode_list">
+        <item>Voice</item>
+        <item>Barcode</item>
+        <item>Camera</item>
+    </string-array>
+    <string name="shop_by">Shop by</string>
+</resources>
